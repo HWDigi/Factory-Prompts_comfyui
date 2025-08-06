@@ -132,7 +132,7 @@ Comprehensive clothing structure with appropriate options:
 
 1. Clone or download to your ComfyUI custom nodes directory:
    ```bash
-   git clone [repository-url] ComfyUI/custom_nodes/Prompt_Factory_generator_sfw/
+   git clone [repository-url] ComfyUI/custom_nodes/Factory-Prompts_comfyui/
    ```
 
 2. Restart ComfyUI
@@ -231,4 +231,5 @@ For technical issues, feature requests, or content guidelines, please refer to t
 
 **🏭 Professional. Safe. Powerful.**
 *The Factory Prompt Generator SFW Edition - Where creativity meets responsibility.*
+
 
