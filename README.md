@@ -6,7 +6,7 @@ A comprehensive ComfyUI custom node suite for advanced **Safe for Work** prompt 
 
 ## 🎯 Overview
 
-The Factory Prompt Generator SFW Edition provides a sophisticated tag-based prompt generation system with emphasis controls, multi-character positioning, and comprehensive negative prompt management. Every component has been carefully curated to ensure **family-friendly, professional-grade content** suitable for all audiences.
+The Factory Prompt Generator SFW Edition provides a tag-based prompt generation system with emphasis controls, multi-character positioning, and comprehensive negative prompt management. Every component has been carefully curated to ensure **family-friendly, professional-grade content** suitable for all audiences.
 
 ## ✨ Key Features
 
@@ -231,5 +231,6 @@ For technical issues, feature requests, or content guidelines, please refer to t
 
 **🏭 Professional. Safe. Powerful.**
 *The Factory Prompt Generator SFW Edition - Where creativity meets responsibility.*
+
 
 
