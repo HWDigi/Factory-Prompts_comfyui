@@ -1,4 +1,4 @@
-# Factory Prompt Generator (SFW Edition)
+# Factory Prompt Generator
 
 > **🛡️ Safe for Work | GitHub Compliant | Professional AI Art Generation**
 
@@ -231,3 +231,4 @@ For technical issues, feature requests, or content guidelines, please refer to t
 
 **🏭 Professional. Safe. Powerful.**
 *The Factory Prompt Generator SFW Edition - Where creativity meets responsibility.*
+
