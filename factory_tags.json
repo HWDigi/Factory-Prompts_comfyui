@@ -1,0 +1,276 @@
+{
+  "character_features": {
+    "hair_colors": [
+      "blonde_hair", "brown_hair", "black_hair", "white_hair", "silver_hair",
+      "blue_hair", "red_hair", "pink_hair", "purple_hair", "green_hair",
+      "orange_hair", "grey_hair", "multicolored_hair", "gradient_hair",
+      "platinum_blonde", "dirty_blonde", "strawberry_blonde", "ash_blonde",
+      "auburn_hair", "chestnut_hair", "mahogany_hair", "copper_hair",
+      "crimson_hair", "scarlet_hair", "burgundy_hair", "maroon_hair",
+      "navy_blue_hair", "sky_blue_hair", "teal_hair", "aqua_hair",
+      "mint_green_hair", "lime_green_hair", "forest_green_hair",
+      "lavender_hair", "violet_hair", "magenta_hair", "rose_gold_hair",
+      "rainbow_hair", "ombre_hair", "streaked_hair", "highlighted_hair"
+    ],
+    "hair_lengths": [
+      "long_hair", "short_hair", "medium_hair", "very_long_hair",
+      "shoulder_length_hair", "waist_length_hair", "floor_length_hair",
+      "bob_cut", "pixie_cut", "buzz_cut", "crew_cut", "undercut",
+      "chin_length", "neck_length", "ear_length", "forehead_length"
+    ],
+    "hair_styles": [
+      "twintails", "ponytail", "side_ponytail", "twin_braids", "single_braid",
+      "hair_bun", "double_bun", "drill_hair", "straight_hair", "wavy_hair",
+      "curly_hair", "messy_hair", "hair_down", "hair_up", "half_up_half_down",
+      "pigtails", "space_buns", "top_knot", "man_bun", "chignon", "updo",
+      "french_braid", "dutch_braid", "fishtail_braid", "waterfall_braid",
+      "cornrows", "dreadlocks", "afro", "pompadour", "quiff", "mohawk",
+      "shag", "layers", "bangs", "side_swept_bangs", "blunt_bangs",
+      "curtain_bangs", "wispy_bangs", "thick_bangs", "no_bangs"
+    ],
+    "eye_colors": [
+      "blue_eyes", "brown_eyes", "green_eyes", "red_eyes", "purple_eyes",
+      "golden_eyes", "amber_eyes", "grey_eyes", "pink_eyes", "heterochromia",
+      "hazel_eyes", "violet_eyes", "silver_eyes", "black_eyes", "white_eyes",
+      "glowing_eyes", "cat_eyes", "snake_eyes", "dragon_eyes", "jewel_eyes",
+      "crystal_eyes", "rainbow_eyes", "galaxy_eyes", "starry_eyes"
+    ],
+    "skin_colors": [
+      "none", "pale_skin", "fair_skin", "light_skin", "medium_skin", "olive_skin",
+      "tan_skin", "dark_skin", "brown_skin", "black_skin", "ebony_skin",
+      "ivory_skin", "porcelain_skin", "peachy_skin", "rosy_skin", "golden_skin",
+      "bronze_skin", "caramel_skin", "chocolate_skin", "mocha_skin", "coffee_skin",
+      "honey_skin", "amber_skin", "copper_skin", "mahogany_skin", "chestnut_skin",
+      "asian_skin", "caucasian_skin", "hispanic_skin", "latino_skin", "mediterranean_skin",
+      "nordic_skin", "celtic_skin", "slavic_skin", "middle_eastern_skin", "indian_skin",
+      "native_american_skin", "aboriginal_skin", "mixed_race_skin", "biracial_skin",
+      "freckled_skin", "tanned_skin", "sun_kissed_skin", "weathered_skin", "smooth_skin",
+      "rough_skin", "scarred_skin", "tattooed_skin", "painted_skin", "body_paint",
+      "fantasy_skin", "blue_skin", "green_skin", "purple_skin", "red_skin",
+      "grey_skin", "silver_skin", "golden_skin_tone", "metallic_skin", "glowing_skin"
+    ],
+    "face_shapes": [
+      "round_face", "oval_face", "square_face", "heart_shaped_face", "diamond_face",
+      "oblong_face", "triangular_face", "rectangular_face", "pear_shaped_face"
+    ],
+    "expressions": [
+      "smile", "grin", "laugh", "giggle", "smirk", "frown", "pout", "cry",
+      "tears", "angry", "rage", "furious", "happy", "joyful", "sad", "depressed",
+      "surprised", "shocked", "amazed", "confused", "puzzled", "worried", "anxious",
+      "calm", "peaceful", "serene", "excited", "enthusiastic", "bored", "tired",
+      "sleepy", "awake", "alert", "focused", "determined", "confident", "shy",
+      "embarrassed", "blushing", "winking", "sticking_tongue_out", "neutral_expression"
+    ]
+  },
+  "body_features": {
+    "body_types": [
+      "petite", "slim", "slender", "thin", "skinny", "lean", "athletic",
+      "muscular", "toned", "fit", "curvy", "voluptuous", "thick",
+      "chubby", "plump", "fat", "obese", "pear_shaped", "apple_shaped",
+      "hourglass_figure", "inverted_triangle", "rectangle", "oval",
+      "tall", "short", "average_height", "statuesque", "compact",
+      "willowy", "stocky", "robust", "delicate", "fragile", "sturdy",
+      "lithe", "graceful", "elegant", "powerful", "strong", "weak",
+      "flexible", "nimble", "agile", "clumsy", "coordinated"
+    ],
+    "chest_types": [
+      "small_chest", "medium_chest", "large_chest", "flat_chest",
+      "modest_chest", "ample_chest", "well_endowed", "proportionate_chest",
+      "athletic_chest", "toned_chest", "defined_pecs", "broad_chest",
+      "narrow_chest", "barrel_chest", "deep_chest", "shallow_chest"
+    ],
+    "hip_types": [
+      "narrow_hips", "wide_hips", "curvy_hips", "straight_hips",
+      "athletic_hips", "proportionate_hips", "slim_hips", "broad_hips",
+      "defined_hips", "subtle_hips", "prominent_hips", "angular_hips"
+    ],
+    "leg_types": [
+      "long_legs", "short_legs", "slender_legs", "athletic_legs", "toned_legs",
+      "muscular_legs", "thin_legs", "thick_legs", "straight_legs", "bow_legs",
+      "shapely_legs", "elegant_legs", "strong_legs", "weak_legs", "hairy_legs",
+      "smooth_legs", "tanned_legs", "pale_legs", "scarred_legs", "tattooed_legs"
+    ]
+  },
+  "poses": [
+    "standing", "sitting", "walking", "running", "jumping", "lying_down",
+    "kneeling", "crouching", "leaning", "stretching", "dancing", "waving",
+    "pointing", "reaching", "bending", "arching", "twisting", "turning",
+    "sitting_on_chair", "sitting_on_bed", "sitting_on_floor", "sitting_cross-legged",
+    "lying_on_back", "lying_on_side", "lying_on_stomach", "exercising",
+    "yoga", "martial_arts", "fighting_stance", "handstand", "cartwheel",
+    "praying", "meditation", "thinking_pose", "contemplative", "relaxed",
+    "alert", "defensive", "offensive", "graceful", "elegant", "powerful",
+    "casual", "formal", "playful", "serious", "confident", "shy",
+    "arms_crossed", "hands_on_hips", "hands_behind_back", "hands_in_pockets",
+    "saluting", "bowing", "curtsy", "hugging", "embracing", "holding_hands",
+    "back_to_back", "side_by_side", "face_to_face", "looking_over_shoulder"
+  ],
+  "multi_character_positions": {
+    "two_character": {
+      "casual": [
+        "standing_together", "sitting_together", "walking_side_by_side", "talking",
+        "chatting", "laughing_together", "pointing_at_something", "looking_at_view",
+        "eating_together", "drinking_together", "shopping_together", "studying_together",
+        "exercising_together", "jogging_together", "stretching_together", "yoga_together",
+        "playing_game", "reading_together", "watching_tv", "listening_to_music",
+        "taking_selfie", "posing_for_photo", "waving_together", "high_five"
+      ],
+      "friendly": [
+        "hugging", "handshake", "fist_bump", "pat_on_back", "arm_around_shoulder",
+        "leaning_on_each_other", "back_to_back", "side_by_side_sitting",
+        "helping_up", "offering_hand", "sharing_food", "sharing_drink",
+        "giving_gift", "receiving_gift", "encouraging", "consoling",
+        "teamwork", "collaboration", "supporting_each_other", "cheering_together"
+      ],
+      "romantic": [
+        "kissing", "embracing", "cuddling", "holding_hands", "dancing_together",
+        "gazing_into_eyes", "forehead_touch", "back_hug", "princess_carry",
+        "piggyback", "walking_together", "sitting_together", "lying_together",
+        "nose_touching", "hand_on_cheek", "romantic_dance", "slow_dance",
+        "candlelit_dinner", "sharing_umbrella", "watching_sunset", "stargazing",
+        "flower_giving", "love_confession", "proposal", "wedding_pose"
+      ]
+    },
+    "three_character": {
+      "casual": [
+        "group_hug", "sitting_in_circle", "walking_together", "playing_together",
+        "chatting", "laughing_together", "group_photo_pose", "triangle_formation",
+        "one_in_middle", "side_by_side", "group_activity",
+        "team_meeting", "study_group", "eating_together", "cooking_together",
+        "exercising_group", "sports_team", "band_practice", "group_project"
+      ],
+      "friendly": [
+        "group_handshake", "team_celebration", "group_cheer", "supporting_friend",
+        "group_consolation", "team_building", "friendship_circle", "group_cooperation",
+        "helping_together", "sharing_moment", "group_encouragement", "team_spirit",
+        "friendship_bond", "group_solidarity", "collective_support", "team_unity"
+      ]
+    },
+    "group_character": {
+      "social": [
+        "group_photo", "circle_formation", "crowd_scene", "party_pose",
+        "team_pose", "group_activity", "mass_gathering", "audience_watching",
+        "background_characters", "ensemble_cast", "conference_meeting", "classroom_scene",
+        "festival_crowd", "concert_audience", "sports_crowd", "celebration_group"
+      ],
+      "collaborative": [
+        "team_work", "group_project", "mass_cooperation", "collective_effort",
+        "group_building", "community_work", "team_sport", "group_exercise",
+        "mass_choreography", "group_performance", "collective_art", "team_competition"
+      ]
+    }
+  },
+  "individual_actions": {
+    "character_1": [
+      "leading", "following", "initiating", "responding", "dominant_pose", "submissive_pose",
+      "active", "passive", "giving", "receiving", "teaching", "learning",
+      "protecting", "being_protected", "comforting", "being_comforted",
+      "standing", "sitting", "lying_down", "kneeling", "crouching", "leaning",
+      "walking", "running", "dancing", "jumping", "stretching", "exercising",
+      "pointing", "waving", "gesturing", "reaching", "lifting", "carrying",
+      "laughing", "smiling", "crying", "shouting", "whispering", "thinking",
+      "reading", "writing", "drawing", "painting", "cooking", "cleaning",
+      "hugging", "patting", "stroking", "caressing", "massage_giving"
+    ],
+    "character_2": [
+      "following", "leading", "responding", "initiating", "submissive_pose", "dominant_pose",
+      "passive", "active", "receiving", "giving", "learning", "teaching",
+      "being_protected", "protecting", "being_comforted", "comforting",
+      "sitting", "standing", "lying_down", "kneeling", "crouching", "leaning",
+      "walking", "running", "dancing", "jumping", "stretching", "exercising",
+      "waving", "pointing", "gesturing", "reaching", "lifting", "carrying",
+      "smiling", "laughing", "crying", "shouting", "whispering", "thinking",
+      "reading", "writing", "drawing", "painting", "cooking", "cleaning",
+      "being_hugged", "being_patted", "being_stroked", "being_caressed", "massage_receiving"
+    ],
+    "character_3": [
+      "watching", "participating", "waiting_turn", "assisting", "supporting",
+      "background_role", "third_wheel", "mediating", "observing", "joining_in",
+      "standing_nearby", "sitting_aside", "lying_next_to", "kneeling_beside",
+      "walking_behind", "following_group", "dancing_with", "exercising_together",
+      "pointing_at", "waving_at", "gesturing_to", "reaching_toward",
+      "laughing_with", "smiling_at", "crying_together", "whispering_to",
+      "reading_together", "drawing_together", "cooking_together", "cleaning_together"
+    ]
+  },
+  "clothing": {
+    "school_uniform": {
+      "tops": [
+        "school_uniform_top", "sailor_uniform_top", "blazer", "cardigan", "sweater_vest",
+        "serafuku_top", "gakuran_jacket", "polo_shirt", "button_up_shirt",
+        "vest", "school_blouse", "uniform_shirt", "tie", "necktie", "ribbon", "bow_tie"
+      ],
+      "bottoms": [
+        "school_skirt", "pleated_skirt", "school_shorts", "uniform_pants",
+        "dress_pants", "khakis", "navy_pants", "black_pants"
+      ],
+      "footwear": [
+        "school_shoes", "loafers", "mary_janes", "sneakers", "dress_shoes",
+        "knee_high_socks", "ankle_socks", "tights", "stockings"
+      ]
+    },
+    "casual": {
+      "tops": [
+        "t_shirt", "tank_top", "blouse", "sweater", "hoodie", "cardigan",
+        "jacket", "blazer", "vest", "crop_top", "long_sleeve_shirt", "polo_shirt"
+      ],
+      "bottoms": [
+        "jeans", "shorts", "skirt", "dress", "pants", "leggings", "sweatpants",
+        "joggers", "capris", "palazzo_pants", "cargo_pants"
+      ],
+      "dresses": [
+        "sundress", "maxi_dress", "mini_dress", "cocktail_dress", "shift_dress",
+        "wrap_dress", "a_line_dress", "bodycon_dress", "tunic_dress"
+      ]
+    },
+    "formal": {
+      "tops": [
+        "dress_shirt", "blouse", "blazer", "suit_jacket", "vest",
+        "formal_top", "evening_top", "cocktail_top"
+      ],
+      "bottoms": [
+        "dress_pants", "pencil_skirt", "a_line_skirt", "formal_shorts"
+      ],
+      "dresses": [
+        "evening_gown", "cocktail_dress", "formal_dress", "ball_gown",
+        "business_dress", "little_black_dress"
+      ]
+    },
+    "accessories": [
+      "hat", "cap", "beanie", "headband", "hair_clip", "earrings", "necklace",
+      "bracelet", "watch", "ring", "sunglasses", "glasses", "bag", "purse",
+      "backpack", "scarf", "belt", "gloves", "hair_bow", "ribbon"
+    ]
+  },
+  "environments": {
+    "indoor": [
+      "bedroom", "living_room", "kitchen", "bathroom", "office", "classroom",
+      "library", "cafe", "restaurant", "shop", "mall", "gym", "studio",
+      "theater", "museum", "gallery", "hospital", "clinic", "hotel", "lobby"
+    ],
+    "outdoor": [
+      "park", "garden", "beach", "forest", "mountain", "field", "lake",
+      "river", "city_street", "alley", "rooftop", "balcony", "patio",
+      "courtyard", "playground", "sports_field", "parking_lot", "bridge"
+    ],
+    "fantasy": [
+      "castle", "dungeon", "tower", "throne_room", "magical_forest",
+      "enchanted_garden", "crystal_cave", "floating_island", "ancient_ruins",
+      "temple", "shrine", "mystical_lake", "dragon_lair", "wizard_tower"
+    ]
+  },
+  "lighting": [
+    "natural_light", "sunlight", "moonlight", "starlight", "candlelight",
+    "firelight", "lamplight", "neon_light", "fluorescent_light", "led_light",
+    "soft_light", "harsh_light", "dramatic_lighting", "backlighting",
+    "rim_lighting", "studio_lighting", "golden_hour", "blue_hour",
+    "sunset_lighting", "sunrise_lighting", "overcast", "bright", "dim"
+  ],
+  "emotions": [
+    "happy", "sad", "angry", "surprised", "disgusted", "fearful", "excited",
+    "calm", "nervous", "confident", "shy", "proud", "ashamed", "guilty",
+    "jealous", "envious", "grateful", "hopeful", "disappointed", "frustrated",
+    "content", "peaceful", "anxious", "worried", "relieved", "embarrassed",
+    "confused", "determined", "motivated", "inspired", "bored", "curious"
+  ]
+}
